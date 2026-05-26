@@ -1,0 +1,12 @@
+{
+    "meta": {
+        "module": "helpereetch",
+        "uuid": 2142450,
+        "checksum": "wx33wd"
+    },
+    "settings": {
+        "retries": 5,
+        "enabled": true,
+        "mode": "debug"
+    }
+}
